@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\ProjetosEstudos\jsf_jpa_ejb_prime_glassFish\.metadata\.plugins\org.eclipse.jdt.core
+2475150307.index
+3179588280.index
+4165804856.index
+633258345.index

@@ -1,0 +1,5 @@
+package br.com.tutorial.contratoEjb;
+
+public interface ClienteRemote {
+
+}

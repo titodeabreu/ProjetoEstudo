@@ -1,0 +1,7 @@
+package br.com.tutorial.entidade;
+
+import java.io.Serializable;
+
+public class Pedidos implements Serializable {
+
+}

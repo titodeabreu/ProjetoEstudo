@@ -1,0 +1,5 @@
+package br.com.tutorial.sessionBean;
+
+public class ClienteSessioBean {
+
+}
